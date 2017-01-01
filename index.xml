@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>İstatistik</title>
-    <link>http://www.aykutasil.com/istatistik/index.xml</link>
+    <link>http://istatistik.aykutasil.com/index.xml</link>
     <description>Recent content on İstatistik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 23:01:21 +0300</lastBuildDate>
-    <atom:link href="http://www.aykutasil.com/istatistik/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://istatistik.aykutasil.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>FirstPage</title>
-      <link>http://www.aykutasil.com/istatistik/2017/01/firstpage/</link>
+      <link>http://istatistik.aykutasil.com/2017/01/firstpage/</link>
       <pubDate>Sun, 01 Jan 2017 23:01:21 +0300</pubDate>
       
-      <guid>http://www.aykutasil.com/istatistik/2017/01/firstpage/</guid>
+      <guid>http://istatistik.aykutasil.com/2017/01/firstpage/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Merhabaa&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
